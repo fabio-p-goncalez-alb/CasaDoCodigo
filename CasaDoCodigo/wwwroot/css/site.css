@@ -34,6 +34,11 @@ textarea {
     .carousel-caption {
         display: none;
     }
+
+    .form-inline,
+    .input-group {
+        display: inline-table
+    }
 }
 
 .left.carousel-control,
